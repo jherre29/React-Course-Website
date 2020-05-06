@@ -5,7 +5,7 @@ import { PROMOTIONS } from '../shared/promotions';
 
 export const initialState = {
     campsites: CAMPSITES,
-    comments: COMMMENTS,
+    comments: COMMENTS,
     partners: PARTNERS,
     promotions: PROMOTIONS
 }
